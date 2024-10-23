@@ -1,2 +1,2 @@
-# Pricing-Model-
+# GoAuto Pricing-Model-
 predicting modeling of optimal vehicle pricing 
